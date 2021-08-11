@@ -1,4 +1,4 @@
-> This article is in-development and will be released in full form soon.
+> This article is in-development and will be released in full form soon. It'll appear on Medium (my publisher likes that), with this as a the accompanying Github repo.
 
 # Bevy-Invaders
 
