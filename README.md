@@ -1,3 +1,5 @@
+> This article is in-development and will be released in full form soon.
+
 # Bevy-Invaders
 
 About the time that *Hands-on Rust* emerged from its technical review, the Rust game development world was abuzz with news of a new engine: *Bevy*. It was too late to incorporate Bevy into my book--but it looked like a great engine. Bevy has now been available for a year, and is rapidly improving--and capturing mind-share amongst Rust users.
